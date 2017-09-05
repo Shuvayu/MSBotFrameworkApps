@@ -1,0 +1,14 @@
+{
+  "name": "bot-dialog-test",
+  "version": "1.0.0",
+  "description": "bot dialog testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shuv",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/restify": "^5.0.2"
+  }
+}
